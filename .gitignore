@@ -1,0 +1,8 @@
+### 忽略输出目录 ###
+**/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
